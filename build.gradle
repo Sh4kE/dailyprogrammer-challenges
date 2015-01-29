@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'application'
 
-mainClassName = 'easy.challenge1.Challenge1'
+mainClassName = 'intermediate.challenge196.Challenge196'
 
 repositories {
     mavenCentral()
